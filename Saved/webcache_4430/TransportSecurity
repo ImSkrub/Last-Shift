@@ -1,0 +1,1 @@
+{"expect_ct":[],"sts":[{"expiry":1732079310.464318,"host":"Z+rOkxFdI//y4dVtNJId/IvFZzTR9tsr5OFneG0q04o=","mode":"force-https","sts_include_subdomains":true,"sts_observed":1731474510.464322},{"expiry":1747026505.119741,"host":"3ZwFSNHjhrLO6Heo8BmbHv933gt01YHG10631DOjeRk=","mode":"force-https","sts_include_subdomains":false,"sts_observed":1731474505.119744}],"version":2}
